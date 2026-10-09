@@ -1,6 +1,4 @@
-<p align="center">
-  <img alt="Kinetra" src="https://raw.githubusercontent.com/KinetraGraphics/.github/main/profile/kinetra-app-icon-1024.png" width="120">
-</p>
+<img alt="Kinetra" src="PASTE-THE-RAW-URL-OF-icon-512.png" width="120">
 
 <h3 align="center">Hi, we're Kinetra.</h3>
 
