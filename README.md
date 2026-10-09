@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KinetraGraphics/.github/main/profile/kinetra-logo-for-dark-bg.svg">
-    <img alt="Kinetra" src="https://raw.githubusercontent.com/KinetraGraphics/.github/main/profile/kinetra-logo-for-light-bg.svg" width="320">
-  </picture>
+  <img alt="Kinetra" src="https://raw.githubusercontent.com/KinetraGraphics/.github/main/profile/kinetra-app-icon-1024.png" width="120">
 </p>
 
 <h3 align="center">Hi, we're Kinetra.</h3>
