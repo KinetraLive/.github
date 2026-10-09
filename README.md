@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./kinetra-logo-for-dark-bg.svg">
-    <img alt="Kinetra" src="./kinetra-logo-for-light-bg.svg" width="320">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KinetraGraphics/.github/main/profile/kinetra-logo-for-dark-bg.svg">
+    <img alt="Kinetra" src="https://raw.githubusercontent.com/KinetraGraphics/.github/main/profile/kinetra-logo-for-light-bg.svg" width="320">
   </picture>
 </p>
 
