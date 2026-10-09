@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Kinetra" src="https://raw.githubusercontent.com/KinetraGraphics/.github/main/profile/icon-512.png" width="120">
+  <img alt="Kinetra" src="https://raw.githubusercontent.com/KinetraLive/.github/main/profile/icon-512.png" width="120">
 </p>
 
 <h3 align="center">Hi, we're Kinetra.</h3>
