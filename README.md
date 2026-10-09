@@ -25,11 +25,8 @@ Live graphics shouldn't need a dedicated graphics operator, a broadcast budget o
 - **Design without code.** Build templates visually, or start from ready-made styles.
 - **Run the show.** Preview, take, update and clear, with tally you can trust on air.
 - **Connect your data.** Google Sheets, JSON and CSV APIs, WebSockets and live chat.
-- **Control it from anywhere.** A full API, plus Bitfocus Companion and Stream Deck support.
+- **Control it from anywhere.** A full API with a Bitfocus Companion module for your Stream Deck.
 
-### Built by people who run live shows
-
-We work in live events and streaming every week. Kinetra is the tool we wanted in our own control room: fast to set up, calm under pressure, and never the reason a show goes wrong.
 
 ### Status
 
