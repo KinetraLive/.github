@@ -1,4 +1,6 @@
-<img alt="Kinetra" src="PASTE-THE-RAW-URL-OF-icon-512.png" width="120">
+<p align="center">
+  <img alt="Kinetra" src="https://raw.githubusercontent.com/KinetraGraphics/.github/main/profile/icon-512.png" width="120">
+</p>
 
 <h3 align="center">Hi, we're Kinetra.</h3>
 
@@ -21,7 +23,6 @@ Live graphics shouldn't need a dedicated graphics operator, a broadcast budget o
 - **Run the show.** Preview, take, update and clear, with tally you can trust on air.
 - **Connect your data.** Google Sheets, JSON and CSV APIs, WebSockets and live chat.
 - **Control it from anywhere.** A full API with a Bitfocus Companion module for your Stream Deck.
-
 
 ### Status
 
